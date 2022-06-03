@@ -3,7 +3,6 @@
 * Đây là 1 website quản lý nhạc sử dụng PHP mà MySQL
 
 ![GitHub language count](https://img.shields.io/github/languages/count/RageOfFire/WebGIS)
-![Discord](https://img.shields.io/discord/752171524919918672)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/RageOfFire/WebGIS)
 ![GitHub last commit](https://img.shields.io/github/last-commit/RageOfFire/WebGIS)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/RageOfFire/WebGIS)
