@@ -80,9 +80,9 @@ Nếu gặp phải lỗi này:
     </filter-mapping>
 ```
 
-* Sửa lỗi trên Google chrome:
-Tạo 1 folder tên temp ở ổ C
-Mở terminal và chạy lệnh sau:
+* Sửa lỗi trên Google chrome
+* Tạo 1 folder tên **temp** ở ổ C
+* Mở terminal và chạy lệnh sau:
 
 ```sh
 "C:\Program Files\Google\Chrome\Application\chrome.exe" --disable-web-security --disable-gpu --user-data-dir=C:\temp
